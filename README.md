@@ -1,1 +1,1 @@
-# MySQL
+Data Analyst MySQl PROJECTS.
